@@ -1,0 +1,28 @@
+ /* styles/Home.module.css */
+.container {
+    padding: 40px;
+    text-align: center;
+  }
+  
+  form {
+    margin-top: 25px;
+  }
+  
+  input {
+    padding: 20px;
+    font-size: 20px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 20px;
+    background-color: #6f84de;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #9e7951;
+  }
+  
